@@ -1,6 +1,7 @@
 {
-  "name": "TG Rename Bot",
-  "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
+  "name": "FC Rename Bot",
+  "description": "Telegram's best Open Source Rename Bot.",
+  "logo": "https://telegra.ph/file/ad43cf0109de0342185b4.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -34,7 +35,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "7351948 466337795"
+      "value": "342136008 597457717"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
