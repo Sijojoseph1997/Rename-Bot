@@ -24,18 +24,18 @@ This is a Telegram FC Rename Bot!
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """
     
-    Hai am  [FC](https://t.me/fcfilmcorner)  Rename bot..
+    Hai am FC Rename bot..
     
 1. Send me any Telegram File.
 2. Reply to that message to /rename new name.extension.
    
-<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/yYHrSnuYXpA">Diploy</a>
+<b>👉 Create own Clone Bot :</b> 👉 <a href="https://github.com/jinto4638/FC-Rename-Bot">Diploy</a>
 
 --------
 
-Support Group : @fcfilmcornerCC
+Support OUR Group : @fcfilmcornerCC
 
- [BOT UPDATES](https://t.me/fcfilmcornerbotupdates)  
+ BOT UPDATES @fcfilmcornerbotupdates  
  
  """
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
